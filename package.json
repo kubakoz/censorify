@@ -1,0 +1,20 @@
+{
+
+	"author": "Kubs",
+	"name": "kubacensorify",
+	"version":"1.0.0",
+	"description": "does stuff",
+	"main":"censortext", 
+	"dependencies": {},
+	"engines":{
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kubakoz/censorify.git"
+	},
+	"keywords":[
+		"kuba"
+	]
+	
+}
